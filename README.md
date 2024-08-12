@@ -5,7 +5,7 @@ Ter uma visão tabular, em formato de planilha, dos pagamentos realizados para o
 
 #### **Visão Atual**
 
-![VisaoTabular](https://github.com/user-attachments/assets/1ae7a000-473a-44c2-a499-ef77e2571ab0)
+![VisaoTabular](https://github.com/user-attachments/assets/a7e903ba-3b00-4d65-8e42-ef635e830dd4)
 
 
 #### **Descrição/Objetivo**
@@ -24,8 +24,11 @@ Para este projeto foram utilizadas as seguintes tecnologias:
 
 #### **Print Resultado:**
 
-![PivotTable](https://github.com/user-attachments/assets/77386b44-b827-468f-bdc0-686769594920)
+![PivotTable](https://github.com/user-attachments/assets/840475a5-badd-4679-9925-0413ab57f0ee)
 
+
+### **Testar o Script:**
+- Para verificar se o script está funcionando, basta fazer o download do arquivo SQLPivotTable-RecebimentoLeite-Final.sql neste repositório e executar no Managment Studio do SQLServer.
 
 #### **Fonte de Dados:**
 - Informações extraídas de banco de dados proprietário e modificadas para manutenção da privacidade.
